@@ -1,6 +1,12 @@
 h2 {
   margin-top: 20px;
 }
+h3,
+p {
+  text-align: left;
+  padding: 5px;
+}
+
 table,
 th,
 td {
@@ -12,6 +18,7 @@ table {
 }
 th {
   height: 50px;
+  font-size: 25px;
 }
 td {
   padding: 10px;
